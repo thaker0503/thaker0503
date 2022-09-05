@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on JS and its Different libraries and framework
+- 🌱 I’m currently learning Data Structures and Algorithm and looking forward to competitive programming
+
 <!--
 **thaker0503/thaker0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
