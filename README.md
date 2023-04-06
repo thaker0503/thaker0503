@@ -12,6 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thaker0503&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thaker0503&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaker0503&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thaker0503&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
